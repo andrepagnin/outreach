@@ -1,0 +1,11 @@
+Impostazione Casella di Posta Thrust
+
+Ecco le istruzioni per l'accesso alla vostra casella: 
+
+1. Dall’app Gmail (o altro client mail) Andare in alto a destra sul Pallino del vostro account 
+2. Aggiungi Account —> Altro Account (simbolo della busta)
+3. Selezionare Account personale IMAP oppure segui le istruzioni per la configurazione prima del Server di arrivo e poi di uscita
+4. Indirizzo eMail nome.cognome@thrust-team.it *vostro nome e cognome
+5. Password Razzogrosso3124! 
+6. Indirizzo Server Arrivo imap.hostinger.com Porta SSL numero 993
+7. Indirizzo Server Uscita smtp.hostinger.com Porta SSL numero 465
